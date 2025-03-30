@@ -1,0 +1,23 @@
+{
+  "name": "dup-file-finder",
+  "version": "1.0.0",
+  "description": "Simple script to find if the same filename exists between 2 folders",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "duplicate",
+    "file",
+    "finder"
+  ],
+  "author": "Oscar Funes <npm@oscarfunes.email>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "volta": {
+    "node": "22.14.0"
+  }
+}
